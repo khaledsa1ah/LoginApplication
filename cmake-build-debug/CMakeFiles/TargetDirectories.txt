@@ -1,0 +1,4 @@
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Login Application/cmake-build-debug/CMakeFiles/Login_Application.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Login Application/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Login Application/cmake-build-debug/CMakeFiles/Library.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Login Application/cmake-build-debug/CMakeFiles/rebuild_cache.dir

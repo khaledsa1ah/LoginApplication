@@ -1,0 +1,13 @@
+# ninja log v5
+1	198	6743476438694187	build.ninja	652f9c51bb571ae9
+0	306	6726090989622651	CMakeFiles/Login_Application.dir/Login_Application.cpp.obj	e3b3d0113c358878
+307	412	6726090990632863	Login_Application.exe	6f4ac76d37edd325
+21	450	6743476438694187	build.ninja	5f9dcc988ff126fc
+6	3551	6743476474855646	CMakeFiles/Login_Application.dir/Login_Application.cpp.obj	75ad49f1b81accae
+3552	5109	6743476490504264	Login_Application.exe	6f4ac76d37edd325
+2	2926	6743476822966740	CMakeFiles/Login_Application.dir/Login_Application.cpp.obj	75ad49f1b81accae
+2927	4384	6743476837554007	Login_Application.exe	6f4ac76d37edd325
+2	2870	6743482451940068	CMakeFiles/Login_Application.dir/Login_Application.cpp.obj	75ad49f1b81accae
+2871	4329	6743482466558967	Login_Application.exe	6f4ac76d37edd325
+2	3085	6743532993770865	CMakeFiles/Login_Application.dir/Login_Application.cpp.obj	75ad49f1b81accae
+3086	4586	6743533008812343	Login_Application.exe	6f4ac76d37edd325
